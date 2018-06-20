@@ -1,0 +1,1 @@
+words = String.new("Hi there")
